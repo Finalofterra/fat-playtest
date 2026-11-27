@@ -1,0 +1,19 @@
+{
+  "name": "Final Age of Terra",
+  "short_name": "FAT",
+  "lang": "fr",
+  "id": "/fat-playtest/",
+  "start_url": "/fat-playtest/",
+  "scope": "/fat-playtest/",
+  "display": "fullscreen",
+  "background_color": "#141318",
+  "theme_color": "#141318",
+  "icons": [
+    {
+      "src": "/fat-playtest/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
